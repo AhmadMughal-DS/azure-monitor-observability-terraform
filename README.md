@@ -20,6 +20,8 @@ Drop the App Insights connection string into any app to start shipping telemetry
 
 ## 🏗️ Architecture
 
+> 🎨 **Interactive diagram (industry-standard icons):** [open in Lucid — page 20](https://lucid.app/lucidchart/3da75ce3-ea66-4296-81b3-00d20a60435b/edit)
+
 ```mermaid
 flowchart LR
     App([Your Apps])
